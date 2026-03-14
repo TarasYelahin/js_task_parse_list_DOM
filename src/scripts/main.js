@@ -31,4 +31,4 @@ function getEmployees(ul) {
   });
 }
 sortList(list);
-getEmployees();
+getEmployees(list);
